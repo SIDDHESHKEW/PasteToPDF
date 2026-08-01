@@ -33,6 +33,16 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Features & Structure
+
+This initial build implements:
+- **Dashboard**: Core widgets, token limits usage metrics, quick tools access.
+- **AI Editor**: Outline organizer, layout sheets preview, editor toolbar, and prompt parameters panels.
+- **Templates**: Search, tag filters category tabs, preset cards list, and custom template modal configs.
+- **Brand Kit**: Color palettes, typography selectors, logo upload dropzones, and brand voice voice guidelines.
+- **Documents History**: Documents table, sort metrics, grid/list view toggles, status filters, and operations menus.
+- **Settings**: Tabbed layout configuring profile details, general workspace settings, model API key credentials, and billing invoices.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
