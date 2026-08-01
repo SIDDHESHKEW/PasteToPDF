@@ -1,3 +1,7 @@
+# AI Document Studio
+
+An intelligent document orchestration environment built using Next.js 16 (App Router), Tailwind CSS v4, Framer Motion, and shadcn/ui.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
